@@ -10,25 +10,31 @@ Impact Evaluators are a framework for coordinating work and aligning incentives 
   - [Contents](#contents)
   - [Academic Papers](#academic-papers)
   - [Videos](#videos)
+  - [Articles](#articles)
   - [Mechanism Design](#mechanism-design)
   - [Public Goods Funding](#public-goods-funding)
   - [Decentralized Systems](#decentralized-systems)
   - [Critiques and Analysis](#critiques-and-analysis)
   - [Related Concepts](#related-concepts)
+  - [Books](#books)
   - [Events](#events)
   - [License](#license)
 
 ## Academic Papers
 
 - [Generalized Impact Evaluators](https://research.protocol.ai/publications/generalized-impact-evaluators/ngwhitepaper2.pdf) - The foundational paper introducing the concept of Impact Evaluators.
-- [Quadratic Voting in the Wild](https://arxiv.org/pdf/1809.06421) - Analysis of quadratic voting mechanisms in practice.
-- [Consensus Protocols for Distributed Systems](https://infoscience.epfl.ch/server/api/core/bitstreams/e929c9a6-d7d4-453b-a200-20ad93b64052/content) - Technical foundations for distributed evaluation systems.
+- [A Flexible Design for Funding Public Goods](https://arxiv.org/pdf/1809.06421) - Analysis of quadratic voting mechanisms in practice.
+- [A Budget-balanced, Incentive-compatible Scheme for Social Choice](https://infoscience.epfl.ch/server/api/core/bitstreams/e929c9a6-d7d4-453b-a200-20ad93b64052/content) - Randomized mechanism that achieves budget balance in social choice problems by excluding random agents from optimization and redistributing VCG taxes to them, trading Pareto-efficiency for zero tax surplus while maintaining truthfulness.
 
 ## Videos
 
 - [Introduction to Impact Evaluators](https://youtu.be/TdDHWv00Z4E) - Juan Benet.
 - [Impact Evaluator Design](https://youtu.be/1soPQ31ZHkQ) - Juan Benet.
 - [Impact Evaluators](https://youtu.be/dpLtrugjfMc) - Evan Miyazono.
+
+## Articles
+
+- [Generalized Impact Evaluators, A year of experiments and theory](https://research.protocol.ai/blog/2023/generalized-impact-evaluators-a-year-of-experiments-and-theory/) - Protocol Labs experience applying Impact Evaluators.
 
 ## Mechanism Design
 
@@ -44,6 +50,7 @@ Impact Evaluators are a framework for coordinating work and aligning incentives 
 
 ## Public Goods Funding
 
+- [Retroactive Public Goods Funding](https://medium.com/ethereum-optimism/retroactive-public-goods-funding-33c9b7d00f0c) - Optimism's approach to funding public goods based on their impact.
 - [The Public Goods Funding Landscape](https://splittinginfinity.substack.com/p/the-public-goods-funding-landscape) - Comprehensive overview of funding mechanisms.
 - [Coordination, Good and Bad](https://vitalik.eth.limo/general/2020/09/11/coordination.html) - Analysis of coordination challenges in public goods.
 - [On Collusion](https://vitalik.eth.limo/general/2019/04/03/collusion.html) - Understanding collusion risks in funding mechanisms.
@@ -51,14 +58,14 @@ Impact Evaluators are a framework for coordinating work and aligning incentives 
 
 ## Decentralized Systems
 
-- [AI + Humans in Organizations](https://vitalik.eth.limo/general/2025/02/28/aihumans.html) - Future of evaluation in AI-human hybrid systems.
-- [On Radical Markets](https://vitalik.eth.limo/general/2018/11/25/central_planning.html) - Decentralized alternatives to central planning.
+- [AI as the engine, humans as the steering wheel](https://vitalik.eth.limo/general/2025/02/28/aihumans.html) - Future of evaluation in AI-human hybrid systems.
+- [Central Planning as Overfitting](https://vitalik.eth.limo/general/2018/11/25/central_planning.html) - Decentralized alternatives to central planning.
 - [Info Finance](https://vitalik.eth.limo/general/2024/11/09/infofinance.html) - Information markets and prediction mechanisms.
 - [Plurality and Alignment](https://vitalik.eth.limo/general/2024/09/28/alignment.html) - Aligning diverse stakeholder interests.
 - [Privacy in Evaluation Systems](https://vitalik.eth.limo/general/2025/04/14/privacy.html) - Balancing transparency and privacy.
 - [The Case for Plurality](https://vitalik.eth.limo/general/2024/08/21/plurality.html) - Supporting diverse evaluation approaches.
 - [Community Notes: An Example That Works](https://vitalik.eth.limo/general/2023/08/16/communitynotes.html) - Successful implementation of distributed evaluation.
-- [Public Operating Systems](https://vitalik.eth.limo/general/2025/03/29/pubos.html) - Infrastructure for public goods coordination.
+- [Open Source Funding](https://vitalik.eth.limo/general/2025/03/29/pubos.html) - Infrastructure for public goods coordination.
 
 ## Critiques and Analysis
 
@@ -71,8 +78,13 @@ Impact Evaluators are a framework for coordinating work and aligning incentives 
 - [Ten Kilograms of Chocolate](https://medium.com/@florian_32814/ten-kilograms-of-chocolate-75c4fa3492b6) - An exploration of value measurement and evaluation challenges.
 - [Bittensor's Anatomy of Incentive Mechanism](https://docs.bittensor.com/learn/anatomy-of-incentive-mechanism) - How Bittensor aligns incentives in AI networks.
 
+## Books
+
+- [Working in Public: The Making and Maintenance of Open Source Software](https://press.stripe.com/working-in-public) - Nadia Eghbal.
+
 ## Events
 
+- [Funding The Commons](https://www.fundingthecommons.io/) - Conference to act as a bridge between builders and researchers to establish new mechanisms for public goods funding leveraging open source technologies.
 - [Impact Evaluation Research Retreat 2025](https://www.researchretreat.org/ierr-2025/) - Annual gathering for impact evaluation researchers.
 
 ## License
