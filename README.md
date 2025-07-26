@@ -12,6 +12,7 @@ Impact Evaluators are a framework for coordinating work and aligning incentives 
   - [Videos](#videos)
   - [Articles](#articles)
   - [Mechanism Design](#mechanism-design)
+  - [Protocol Studies](#protocol-studies)
   - [Public Goods Funding](#public-goods-funding)
   - [Decentralized Systems](#decentralized-systems)
   - [Critiques and Analysis](#critiques-and-analysis)
@@ -47,6 +48,12 @@ Impact Evaluators are a framework for coordinating work and aligning incentives 
 - [Quadratic Funding is Not Optimal](https://jonathanwarden.com/quadratic-funding-is-not-optimal/) - Critical analysis of quadratic funding limitations.
 - [A Mild Critique of Quadratic Funding](https://kronosapiens.github.io/blog/2019/12/13/mild-critique-qf.html) - Thoughtful examination of QF challenges.
 - [Funding impact via milestone markets](https://docs.fileverse.io/0x0D97273dee4D1010321f9eBa2e9eaB135C17D6dE/0#key=5GgcacTDy2h1QwWV9vJqGD-YzwomzuIOueMACpjghbJLxfG3ZqbWl1qDC1Le04uR) - A practical prototype that integrates milestone-based conditional markets to enable more transparent and efficient funding of impact projects.
+
+## Protocol Studies
+
+- [Kafka Index](https://summerofprotocols.com/wp-content/uploads/2024/04/Kafka-Index-Nadia-Asparouhova-1.pdf) - Evaluative criteria for identifying bad protocols.
+- [The Unreasonable Sufficiency of Protocols](https://summerofprotocols.com/the-unreasonable-sufficiency-of-protocols-web) - Ten dimensions of sufficiency of protocols.
+- [Good Death](https://summerofprotocols.com/research/good-death) - Considering the lifecycle, death, and ossification of protocols
 
 ## Public Goods Funding
 
