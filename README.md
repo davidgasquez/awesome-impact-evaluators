@@ -12,6 +12,7 @@ Impact Evaluators are a framework for coordinating work and aligning incentives 
   - [Videos](#videos)
   - [Articles](#articles)
   - [Mechanism Design](#mechanism-design)
+  - [Implementation](#implementation)
   - [Protocol Studies](#protocol-studies)
   - [Public Goods Funding](#public-goods-funding)
   - [Decentralized Systems](#decentralized-systems)
@@ -26,6 +27,14 @@ Impact Evaluators are a framework for coordinating work and aligning incentives 
 - [Generalized Impact Evaluators](https://research.protocol.ai/publications/generalized-impact-evaluators/ngwhitepaper2.pdf) - The foundational paper introducing the concept of Impact Evaluators.
 - [A Flexible Design for Funding Public Goods](https://arxiv.org/pdf/1809.06421) - Analysis of quadratic voting mechanisms in practice.
 - [A Budget-balanced, Incentive-compatible Scheme for Social Choice](https://infoscience.epfl.ch/server/api/core/bitstreams/e929c9a6-d7d4-453b-a200-20ad93b64052/content) - Randomized mechanism that achieves budget balance in social choice problems by excluding random agents from optimization and redistributing VCG taxes to them, trading Pareto-efficiency for zero tax surplus while maintaining truthfulness.
+- [Tournament Theory: Thirty Years of Contests and Competitions](https://www.researchgate.net/publication/275441821_Tournament_Theory_Thirty_Years_of_Contests_and_Competitions) - Review of tournament mechanisms for incentivizing performance and their applications to contest design.
+- [Are We Learning Yet? A Meta-Review of Evaluation Failures Across Machine Learning](https://datasets-benchmarks-proceedings.neurips.cc/paper_files/paper/2021/file/757b505cfd34c64c85ca5b5690ee5293-Paper-round2.pdf) - Systematic analysis of evaluation failures in ML benchmarks and their implications for impact measurement systems.
+- [Proportionally fair online allocation of public goods with predictions](https://dl.acm.org/doi/abs/10.24963/ijcai.2023/3) - Algorithm for fair resource allocation in online settings with predictive information, applicable to dynamic impact evaluation scenarios.
+- [A natural adaptive process for collective decision-making](https://onlinelibrary.wiley.com/doi/10.3982/TE5380) - Mathematical framework for how groups naturally converge on collective decisions through adaptive processes.
+- [Coevolutionary dynamics of population and institutional rewards in public goods games](https://www.sciencedirect.com/science/article/pii/S095741742302081X) - Analysis of how reward structures co-evolve with participant behavior in public goods provision.
+- [Analysing public goods games using reinforcement learning: effect of increasing group size on cooperation](https://royalsocietypublishing.org/doi/10.1098/rsos.241195) - RL-based analysis of cooperation dynamics in public goods scenarios, showing how group size affects collective behavior.
+- [Frequently Asked Questions (And Answers) About AI Evals](https://hamel.dev/blog/posts/evals-faq/) - Practical guide to evaluation methodologies in AI systems, with insights applicable to impact evaluation design.
+- [Asymmetry of verification and verifier's law](https://www.jasonwei.net/blog/asymmetry-of-verification-and-verifiers-law) - Analysis of how verification difficulty affects system design and gaming resistance in evaluation mechanisms.
 
 ## Videos
 
@@ -48,6 +57,14 @@ Impact Evaluators are a framework for coordinating work and aligning incentives 
 - [Quadratic Funding is Not Optimal](https://jonathanwarden.com/quadratic-funding-is-not-optimal/) - Critical analysis of quadratic funding limitations.
 - [A Mild Critique of Quadratic Funding](https://kronosapiens.github.io/blog/2019/12/13/mild-critique-qf.html) - Thoughtful examination of QF challenges.
 - [Funding impact via milestone markets](https://docs.fileverse.io/0x0D97273dee4D1010321f9eBa2e9eaB135C17D6dE/0#key=5GgcacTDy2h1QwWV9vJqGD-YzwomzuIOueMACpjghbJLxfG3ZqbWl1qDC1Le04uR) - A practical prototype that integrates milestone-based conditional markets to enable more transparent and efficient funding of impact projects.
+- [Information elicitation mechanisms](https://jonathanwarden.com/information-elicitation-mechanisms/) - Comprehensive framework for extracting truthful information from participants when verification is impossible, using peer prediction and Bayesian methods.
+- [Bayesian Truth Serum](https://www.science.org/doi/10.1126/science.1102081) - Method for eliciting truthful responses in subjective evaluation scenarios by using both answers and predictions of others' responses.
+- [An Analysis of Pairwise Preference](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3359677) - Detailed analysis of pairwise comparison mechanisms and their effectiveness in preference aggregation for evaluation systems.
+
+## Implementation
+
+- [Community Notes Note ranking algorithm](https://communitynotes.x.com/guide/en/under-the-hood/ranking-notes) - Twitter's successful distributed evaluation system that uses helpfulness scoring and statistical modeling to surface quality content moderation.
+- [Ostrom's Common Pool Resource Management](https://earthbound.report/2018/01/15/elinor-ostroms-8-rules-for-managing-the-commons/) - Elinor Ostrom's empirically-derived principles for successful commons governance, foundational for designing sustainable Impact Evaluators.
 
 ## Protocol Studies
 
